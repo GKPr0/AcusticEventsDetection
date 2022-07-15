@@ -1,2 +1,4 @@
 https://colab.research.google.com/github/jsalbert/sound_classification_ml_production/blob/main/notebooks/UrbanSound8k_data_exploration.ipynb#scrollTo=_5j_Mm1p0Mpt
 https://github.com/aqibsaeed/Urban-Sound-Classification
+https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5
+https://medium.com/@acordier/tf-data-dataset-generators-with-parallelization-the-easy-way-b5c5f7d2a18
