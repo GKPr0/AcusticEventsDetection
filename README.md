@@ -1,5 +1,9 @@
 ## Urban Sound classification using CNN
 
+## Environment
+- Python 3.8
+- All necessary dependencies in [requirements.txt](https://github.com/GKPr0/AcusticEventsDetection/blob/master/requirements.txt)
+
 ### Dataset
 - Urban sound 8K [dataset](https://urbansounddataset.weebly.com/urbansound8k.html)
 
